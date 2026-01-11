@@ -11,6 +11,10 @@ The purpose of this function is to count how many islands there are in the map.
 
 <img width="776" height="456" alt="image" src="https://github.com/user-attachments/assets/bf93a3c7-79ce-434d-92e5-7686e17dbcbe" />
 
+## Tech Stack 🛠️
+
+100% Python <br/>
+
 # Contact 📬
 
 Created by Owen Anderson on May ‎11, ‎2025
