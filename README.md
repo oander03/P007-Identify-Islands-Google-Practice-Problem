@@ -2,7 +2,7 @@
 The function takes in a "map" which is made up of 1s and 0s. The 1s represent land and the 0s represent water. 
 The purpose of this function is to count how many islands there are in the map. 
 
-<img width="946" height="580" alt="image" src="https://github.com/user-attachments/assets/ca588d77-9235-47bf-8065-52d292c47d9d" />
+<img width="776" height="456" alt="image" src="https://github.com/user-attachments/assets/ca588d77-9235-47bf-8065-52d292c47d9d" />
 
 ## How it Works 🚀
 - The function takes in the map and finds the first "1" in the array
